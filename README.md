@@ -17,7 +17,7 @@ Built with **Python, Scikit-learn, and Streamlit**, this app aims to make early 
 ## 🚀 Live Demo
 
 🔗 **Web App:** [Click here to use the app](https://diabetes-prediction-web-app07.streamlit.app)  
-🎥 **Demo Video:** [Watch on YouTube](https://https://youtu.be/je1ORKM7P-E)
+🎥 **Demo Video:** [Watch on YouTube](https://youtu.be/je1ORKM7P-E?si=FzxWraq-9PhOIAAu)
 ---
 
 ## 🧠 How It Works
@@ -46,7 +46,4 @@ Built with **Python, Scikit-learn, and Streamlit**, this app aims to make early 
 - **streamlit-option-menu**
 - Model trained on the [PIMA Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
 
----
-
-## 📂 Project Structure
 
