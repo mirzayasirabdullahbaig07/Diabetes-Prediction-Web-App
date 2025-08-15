@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 15 18:23:13 2025
 
-@author: HP
+@author: Mirza Yasir Abdullah Baig
 """
 
 import numpy as np
@@ -109,3 +109,4 @@ if __name__ == '__main__':
     
     
     
+
