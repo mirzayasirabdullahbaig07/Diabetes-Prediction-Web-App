@@ -16,8 +16,8 @@ Built with **Python, Scikit-learn, and Streamlit**, this app aims to make early 
 
 ## 🚀 Live Demo
 
-🔗 **Web App:** [Click here to use the app](https://diabetes-prediction-web-app07.streamlit.app)  
-🎥 **Demo Video:** [Watch on YouTube](https://youtu.be/je1ORKM7P-E?si=FzxWraq-9PhOIAAu)
+🔗 **Web App:** [Click here to use the app](https://diabetesprediction-web-app07.streamlit.app/) 
+🎥 **Demo Video:** [Watch on YouTube](https://youtu.be/VIUlTn2ah40?si=2AP86xRfoTWu8vYm)
 ---
 
 ## 🧠 How It Works
