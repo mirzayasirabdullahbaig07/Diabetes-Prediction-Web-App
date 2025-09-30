@@ -7,6 +7,11 @@ The model is trained on the **PIMA Indians Diabetes Dataset** using **Scikit-lea
 
 ## 🚀 Demo  
 🔗 [Live App on Streamlit](https://diabetesprediction-web-app07.streamlit.app/)  
+
+## 🚀 Video Demo  
+[Video Demo](https://github.com/user-attachments/assets/c1b6d732-ecd6-4972-96eb-6a4c1f0c0512)
+
+## 🚀 Detail Video On Youtube  
 🎥 [Watch Demo on YouTube](https://youtu.be/VIUlTn2ah40?si=2AP86xRfoTWu8vYm)  
 
 ---
